@@ -50,7 +50,8 @@ The user can input their transaction name and the cost of it and then choose whe
 
 ## Media
 
-![screengrab](https://user-images.githubusercontent.com/75399668/114320599-3786dd00-9adc-11eb-8127-657d114fdd19.gif)
+![Screen Shot 2021-05-07 at 10 31 19 PM](https://user-images.githubusercontent.com/75399668/117524684-fd4a1780-af83-11eb-9316-6ba6736c568f.png)
+
 
 ## Technologies Used
 
